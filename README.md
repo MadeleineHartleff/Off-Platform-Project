@@ -7,14 +7,14 @@ This project is a simple static website for a fictional arts and crafts store na
 The project contains the following files and structure:
 
 Dasmoto-Arts-Crafts/
-│
-├── index.html
-├── style.css
-└── images/
-    ├── hacksaw.jpeg
-    ├── frames.jpeg
-    ├── finnish.jpeg
-    └── pattern.jpeg
+    │
+    ├── index.html
+    ├── style.css
+    └── images/
+        ├── hacksaw.jpeg
+        ├── frames.jpeg
+        ├── finnish.jpeg
+        └── pattern.jpeg
 
 ### Description of Files
 
@@ -26,27 +26,27 @@ Dasmoto-Arts-Crafts/
 
 * **Header**: Contains the website's title "Dasmoto's Arts & Crafts".
 * **Main Content**: Consists of three articles, each showcasting a different product catecory:
-** **Brushes**: Describes "Hacksaw Bruhes" with an image and price.
-** **Frames**: Lists "Art Frames (assorted)" with details on materials and customization options.
-** **Paint**: Introduces "Clean Finnish Paint" with available colors and pricing.
+    * **Brushes**: Describes "Hacksaw Bruhes" with an image and price.
+    * **Frames**: Lists "Art Frames (assorted)" with details on materials and customization options.
+    * **Paint**: Introduces "Clean Finnish Paint" with available colors and pricing.
 
 ## CSS Styling
 
 * **Gerneral Styling**:
-** The main font uses is **Arial, Helvetica, sans-serif**.
-** Bold text and specified font sizes are used to emphasize headers and important details.
+    * The main font uses is **Arial, Helvetica, sans-serif**.
+    * Bold text and specified font sizes are used to emphasize headers and important details.
 * **Header (h1)**:
-** Font size: **100px**
-** Color: **Khaki**
-** Background image: pattern.jpeg
-** Text-align: **center**
+    * Font size: **100px**
+    * Color: **Khaki**
+    * Background image: pattern.jpeg
+    * Text-align: **center**
 * **Subheaders (h2)**:
-** Font size: **32px**
-** Color: **White**
+    * Font size: **32px**
+    * Color: **White**
 * **Product Categories**:
-** Brushes: **Mediumspringgreen** background
-** Frames: **Lightcoroal** background
-** Paint: **Skyblue** background
+    * Brushes: **Mediumspringgreen** background
+    * Frames: **Lightcoroal** background
+    * Paint: **Skyblue** background
 * **Highlithed Text (Prize)**: Blue, bold, and uses the primary font.
 
 ## Imgaes
